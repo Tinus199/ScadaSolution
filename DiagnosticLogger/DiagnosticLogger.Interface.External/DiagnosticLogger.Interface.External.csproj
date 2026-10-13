@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DiagnosticLogger.Test\DiagnosticLogger.Test.Unit\DiagnosticLogger.Test.Unit.csproj" />
+  </ItemGroup>
+
+</Project>
